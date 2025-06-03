@@ -1,0 +1,11 @@
+{
+    "key_bindings": {
+        "move_forward": 87,
+        "move_backward": 83,
+        "move_left": 65,
+        "move_right": 68,
+        "jump": 32,
+        "crouch": "KEY_LEFT_SHIFT"
+    },
+    "volume": 0.661201171875
+}
